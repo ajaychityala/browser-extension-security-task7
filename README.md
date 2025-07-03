@@ -14,5 +14,3 @@ Content:
 - TASK-7.pdf: Contains the detailed report and answers.
 - screenshots/: Folder with all extension-related images.
 - answers.md: (Optional) Markdown version of Q&A for readability.
-
-Submitted by:
